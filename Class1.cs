@@ -20,5 +20,6 @@ public class Class1
             writer.WriteLine("Test function to check azure functions");
         }
         //till here
+        //ADDED A COMMENT.
     }
 }
